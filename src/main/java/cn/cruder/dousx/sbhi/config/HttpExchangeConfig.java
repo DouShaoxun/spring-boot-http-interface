@@ -11,7 +11,7 @@ import org.springframework.web.service.invoker.HttpServiceProxyFactory;
 @Configuration
 public class HttpExchangeConfig {
     /**
-     * <a href="https://docs.spring.io/spring-framework/docs/6.0.0-SNAPSHOT/reference/html/integration.html#rest-http-interface">参考文档</a>
+     * <a href="https://docs.spring.io/spring-framework/docs/6.0.0/reference/html/integration.html#rest-http-interface">参考文档</a>
      *
      * @return {@link OrderHttpApi}
      */
